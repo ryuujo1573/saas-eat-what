@@ -1,0 +1,12 @@
+{
+  "files.associations": {
+    "*.css": "tailwindcss"
+  },
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "files.autoSave": "onFocusChange",
+  "files.autoSaveWhenNoErrors": true,
+  "files.defaultLanguage": "${activeEditorLanguage}",
+  "files.eol": "\n",
+  "files.insertFinalNewline": true
+}

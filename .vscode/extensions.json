@@ -1,0 +1,11 @@
+{
+  "recommendations": [
+    "dbaeumer.vscode-eslint",
+    "unifiedjs.vscode-mdx",
+    "esbenp.prettier-vscode",
+    "vivaxy.vscode-conventional-commits",
+    "bradlc.vscode-tailwindcss",
+    "Gruntfuggly.todo-tree"
+  ],
+  "unwantedRecommendations": []
+}
